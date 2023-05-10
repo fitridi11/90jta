@@ -1,7 +1,7 @@
 {
   "Ads": [
-      {
-     "select_main_ads": "ADMOB",
+    {
+    "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
@@ -13,8 +13,7 @@
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
+      "open_ads_max":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779x",
       "initialize_sdk_backup_ads":"",
@@ -25,31 +24,193 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-      }
-   ],
 
-    "Contact": [
-    {
-      "id": 1,
-      "title": "Jeon Jeong-guk",
-      "description": "Samples last chat",
-      "image": "http://aliendro.id/uploads/YTAPP/Jeon Jeong-guk.jpg",
-      "videoid": "footbal"
     }
   ],
-  "Wallpaper": [
+  "Mods": [
     {
-      "id": 1,
-      "title": "Waterfall",
-      "image": "https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
-    }
-  ],
-  "More": [
+      "name": "DASH ATTACK TITAN",
+      "image": "file:///android_asset/attackytiotan.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/DashAttackTitan.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
     {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "name": "Dragon Ball",
+      "image": "file:///android_asset/drangoonBall.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/dragonballmelmod.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Extra Weapon",
+      "image": "file:///android_asset/ExtraWeapons.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/Extra-Weapons.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Fire Haven Wubbox",
+      "image": "file:///android_asset/FireHavenWubbox.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/FireHeavenWubbox.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Fury Tank",
+      "image": "file:///android_asset/FuryTank.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/FuryTank.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "garden of banban",
+      "image": "file:///android_asset/gardenofbanban.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/GardenofBanBanmelsave.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "House 7",
+      "image": "file:///android_asset/gardenofbanban.png",
+      "link_mods": "null",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Huggy Wuggy",
+      "image": "file:///android_asset/HuggyWuggy.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/Huggywuggymelsave.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "MONSTER",
+      "image": "file:///android_asset/MONSTER.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/MONSTER.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Nibbler",
+      "image": "file:///android_asset/Nibbler.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/nibblermelsave%E2%80%8B.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "nightmareflynn",
+      "image": "file:///android_asset/nightmareflynn.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/nightmareflynn%E2%80%8B.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "SCP 682",
+      "image": "file:///android_asset/SCP682.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/Scp682%E2%80%8B.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "stages of cursed",
+      "image": "file:///android_asset/stagesofcursed.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/stagesofcursedmelsave.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "The belqius",
+      "image": "file:///android_asset/Thebelqius.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/TheBelqius.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Titanic",
+      "image": "file:///android_asset/Titanic.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/Titanicmilsave.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Yoruichi",
+      "image": "file:///android_asset/Yoruichi.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/gardenof-ban-banmelsave/Yoruichi_Pack_Bleach.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Broly",
+      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Balls",
+      "image": "file:///android_asset/Balls.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Naruto",
+      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Goku",
+      "image": "file:///android_asset/goku.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Functional ChainsawMan",
+      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
+      "link_mods": "null",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "evil wubbox",
+      "image": "file:///android_asset/evil-wubbox-.webp",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
+    },
+    {
+      "name": "Plant Wubbox",
+      "image": "file:///android_asset/plant_wubbox.jpg",
+      "link_mods": "null",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
+      "type": "B",
+      "description": "Melon Playground mods in various such as: npc mods, weapons, animal mods, car mods, furniture, tanks and techniques, various buildings and many others Hundreds of items and different mod possibilities"
     }
   ]
 }
