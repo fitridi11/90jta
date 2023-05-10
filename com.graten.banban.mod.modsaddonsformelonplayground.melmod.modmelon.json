@@ -1,0 +1,160 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Garden of banban",
+      "image": "file:///android_asset/gardenofbanbanchapter1.png",
+      "link_mods": "https://archive.org/download/babban12/Garten_of_banban%20.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Garden of banban 2",
+      "image": "file:///android_asset/gardenofbanbanchapter2.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/banban_of_garten2.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Garden of banban 3",
+      "image": "file:///android_asset/gardenofbanbanchapter3.png",
+      "link_mods": "https://archive.org/download/babban12/GardenofBanBan3melsave.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Garden of banban 4",
+      "image": "file:///android_asset/gardenofbanbanchapter4.png",
+      "link_mods": "https://archive.org/download/babban12/banban_of_garten2_4.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Apeirophobia",
+      "image": "file:///android_asset/Apeirophobia.png",
+      "link_mods": "https://archive.org/download/babban12/ApeirophobiaEntities.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Atomic Heart",
+      "image": "file:///android_asset/AtomicHeart.png",
+      "link_mods": "https://archive.org/download/babban12/Atomic_Heart_MPG.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "FNAF2",
+      "image": "file:///android_asset/FNAF2.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/fnaf2modmp.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "gtr",
+      "image": "file:///android_asset/gtr.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/GTR.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Happy tree friends",
+      "image": "file:///android_asset/Happytreefriends.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/Happytreefriends.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Kids",
+      "image": "file:///android_asset/kids.png",
+      "link_mods": "https://archive.org/download/babban12/kids.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Leatherface",
+      "image": "file:///android_asset/Leatherface.png",
+      "link_mods": "https://archive.org/download/babban12/Leatherface.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "radioactive gun",
+      "image": "file:///android_asset/radioactivegun.png",
+      "link_mods": "https://archive.org/download/babban12/Residentevil4.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "resident evil 4",
+      "image": "file:///android_asset/residentevil4.png",
+      "link_mods": "https://archive.org/download/gardenof-ban-banmelsave/stagesofcursedmelsave.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Squid Game",
+      "image": "file:///android_asset/SquidGame.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/Squidgame.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Thomas The Tank Engin",
+      "image": "file:///android_asset/ThomasTheTankEngin.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/babban12/ThomasTheTankEngin.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    },
+    {
+      "name": "Titan pumpkin",
+      "image": "file:///android_asset/Titanpumpkin.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/babban12/titanpumpkin.zip",
+      "type": "B",
+      "description": "Melon Playground mods Garden of banban"
+    }
+  ]
+}
