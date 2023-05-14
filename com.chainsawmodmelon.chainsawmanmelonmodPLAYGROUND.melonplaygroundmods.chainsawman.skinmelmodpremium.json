@@ -1,0 +1,208 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "CHAINSAW DEVIL CHAINSAW MAN",
+      "image": "file:///android_asset/CHAINSAWDEVILCHAINSAWMAN.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/CHAINSAWDEVILCHAINSAWMAN.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Chainsaw Devil",
+      "image": "file:///android_asset/ChainsawDevil.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/Chainsaw_devil.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "CHAINSAW MAN",
+      "image": "file:///android_asset/CHAINSAWMAN.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/CHAINSAW_MAN.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Makima Chainsaw Man",
+      "image": "file:///android_asset/MakimaChainsawMan.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/makima.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Alpha Zombie Shark",
+      "image": "file:///android_asset/AlphaZombieShark.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/zombiealphashark.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Chef Pigsters",
+      "image": "file:///android_asset/ChefPigsters.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/ChefPigsters.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "CoachPickles",
+      "image": "file:///android_asset/CoachPickles.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/CoachPickles.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Gipsy Danger",
+      "image": "file:///android_asset/GipsyDanger.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/Gipsy_Danger.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "GOB Fanmade",
+      "image": "file:///android_asset/GOBFanmade.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/GOBFanmadep2.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "green Saitama",
+      "image": "file:///android_asset/greenSaitama.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/saitamagreen.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Ignited Bonnie",
+      "image": "file:///android_asset/IgnitedBonnie.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/ignitedbonnie.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "MontyGomery Gator",
+      "image": "file:///android_asset/MontyGomeryGator.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/MontyGomeryGator.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Saitama titan 2023",
+      "image": "file:///android_asset/Saitamatitan2023.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/SaitamaTitan.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "scary green",
+      "image": "file:///android_asset/scarygreen.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/scarygreenmod.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "SCP foundation",
+      "image": "file:///android_asset/SCPfoundation.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/SCPfoundation.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "seamonster",
+      "image": "file:///android_asset/seamonster.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/seamonster.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "shadow company",
+      "image": "file:///android_asset/shadowcompany.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/shadowcompanymod.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Simplechainsaw",
+      "image": "file:///android_asset/Simplechainsaw.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/Chainsawman.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Skullcrawler",
+      "image": "file:///android_asset/Skullcrawler.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/skullcrawler.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "slendy tubbies 2",
+      "image": "file:///android_asset/slendytubbies2.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/slendytubbies2.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "toe jammer Minecraft",
+      "image": "file:///android_asset/toejammerMinecraft.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/toejammerMinecraft.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    },
+    {
+      "name": "Wolly Mammoth",
+      "image": "file:///android_asset/WollyMammoth.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/woolymammoth.zip",
+      "type": "B",
+      "description": "Chainsaw Man Melon Playground Mod is a fun and addictive add-on that will have you spending hours progressing. With endless mods and various challenges to overcome. If you're looking for a list of fun and challenging add-ons that will keep you entertained for hours, Melon Playground Mod is the perfect choice."
+    }
+  ]
+}
