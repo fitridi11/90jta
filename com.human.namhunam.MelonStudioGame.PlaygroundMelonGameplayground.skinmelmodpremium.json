@@ -1,0 +1,272 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Become Human",
+      "image": "file:///android_asset/BecomeHuman.png",
+      "link_mods": "https://archive.org/download/viscera_hqaoywiwl1o/34f86f29cbdab57c94180c2f4936ebde173714.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Human organs",
+      "image": "file:///android_asset/Humanorgans.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/viscera_hqaoywiwl1o/bd6c8875907fa78db1c30fcc1304348b113536.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Human Workshoop",
+      "image": "file:///android_asset/HumanWorkshoop.png",
+      "link_mods": "https://archive.org/download/viscera_hqaoywiwl1o/humanworkshop.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "human1",
+      "image": "file:///android_asset/human1.png",
+      "link_mods": "https://archive.org/download/viscera_hqaoywiwl1o/humans1.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "humans baobab roma",
+      "image": "file:///android_asset/humans-baobab_roma.png",
+      "link_mods": "https://archive.org/download/viscera_hqaoywiwl1o/34f86f29cbdab57c94180c2f4936ebde173714.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Luffy",
+      "image": "file:///android_asset/Luffy.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/Chainsawman.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Nami",
+      "image": "file:///android_asset/Nami.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/skullcrawler.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Naruto baryon",
+      "image": "file:///android_asset/Narutobaryon.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/slendytubbies2.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Nico Robin",
+      "image": "file:///android_asset/NicoRobin.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/toejammerMinecraft.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Pokemon",
+      "image": "file:///android_asset/Pokemon.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/woolymammoth.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Roronoa Zoro",
+      "image": "file:///android_asset/RoronoaZoro.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/shadowcompanymod.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Ryuma",
+      "image": "file:///android_asset/Ryuma.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/Chainsawman.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Saitama Green",
+      "image": "file:///android_asset/SaitamaGreen.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/skullcrawler.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Goku Hahehameha",
+      "image": "file:///android_asset/GokuHahehameha.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/slendytubbies2.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "special colossal titan",
+      "image": "file:///android_asset/specialcolossaltitan.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/toejammerMinecraft.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Tokyo ghoul",
+      "image": "file:///android_asset/Tokyoghoul.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/woolymammoth.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Ultra ego",
+      "image": "file:///android_asset/Ultraego.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/slendytubbies2.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Yoruichi",
+      "image": "file:///android_asset/Yoruichi.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/toejammerMinecraft.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "CHAINSAW MAN",
+      "image": "file:///android_asset/CHAINSAWMAN.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/ChefPigsters.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Crocodile From One Piece",
+      "image": "file:///android_asset/CrocodileFromOnePiece.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/CoachPickles.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "DASH ATTAC KTITAN",
+      "image": "file:///android_asset/DASHATTACKTITAN.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/Gipsy_Danger.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Eren Vs ReinerEpic",
+      "image": "file:///android_asset/ErenVsReinerEpic.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/GOBFanmadep2.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Gojo Satorou",
+      "image": "file:///android_asset/GojoSatorou.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/saitamagreen.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Gundam",
+      "image": "file:///android_asset/Gundam.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/ignitedbonnie.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "hakai",
+      "image": "file:///android_asset/hakai.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/MontyGomeryGator.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Ichigo Kurosaki",
+      "image": "file:///android_asset/IchigoKurosaki.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/SaitamaTitan.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Jeff The Killer",
+      "image": "file:///android_asset/JeffTheKiller.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/chainsaw_202305/scarygreenmod.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Jotaro Star Platinum",
+      "image": "file:///android_asset/JotaroStarPlatinum.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/chainsaw_202305/SCPfoundation.zip",
+      "type": "B",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "kakashi",
+      "image": "file:///android_asset/kakashi.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/seamonster.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    },
+    {
+      "name": "Kyojuro",
+      "image": "file:///android_asset/Kyojuro.png",
+      "link_mods": "https://archive.org/download/chainsaw_202305/shadowcompanymod.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Anime is animation from Japan drawn by hand or using computer technology. The word anime stands for animation in English, which refers to all types of animation. Outside of Japan, this term is used specifically to refer to any animation produced in Japan. Even so, it is possible that anime can be produced outside of Japan. Some experts argue that anime is a new form of orientalism.."
+    }
+  ]
+}
