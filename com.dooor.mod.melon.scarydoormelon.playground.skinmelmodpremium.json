@@ -1,0 +1,112 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Anti theft door",
+      "image": "file:///android_asset/door1.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/Anti%20theft%20door.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "anti-theft door 2",
+      "image": "file:///android_asset/door2.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/compressed_20230525/anti-theft%20door2.zip",
+      "type": "B",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "DOOR roblox Hotel",
+      "image": "file:///android_asset/door3.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/DOORrobloxHotel.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Doors 2",
+      "image": "file:///android_asset/door4.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/Doors2.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Doors 3",
+      "image": "file:///android_asset/door5.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/Doors3.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Doors Library",
+      "image": "file:///android_asset/door6.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/DoorsLibrary.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Doors",
+      "image": "file:///android_asset/door7.png",
+      "link_mods": "https://archive.org/download/compressed_20230525/Doors.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "New Doors",
+      "image": "file:///android_asset/door8.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/compressed_20230525/NEWDOORS.zip",
+      "type": "B",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Roblox Doors 2",
+      "image": "file:///android_asset/door9.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/compressed_20230525/roblok%20doors%202.zip",
+      "type": "B",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    },
+    {
+      "name": "Roblox Doors pack",
+      "image": "file:///android_asset/door10.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/compressed_20230525/Roblox_Doors.zip",
+      "type": "B",
+      "description": "Doors melon playground adalah mod untuk memberikan berbagai karakter yang menarik dan dengan tema horror, mod door melon ini bisa anda gunakan untuk menambah karakter yang belum pernah anda miliki sebelumnya dan anda juga bisa mengasah ide dan kreativitas anda dengan mod pintu untuk melon playground . Buat berbagai gerakan menarik dan hasilkan adegan fantastis dari mod untuk taman bermain melon ini."
+    }
+  ]
+}
