@@ -1,0 +1,152 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Batman",
+      "image": "file:///android_asset/superheroo1.png",
+      "link_mods": "https://archive.org/download/hes_202305/BatmanMechR.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Batman2",
+      "image": "file:///android_asset/superheroo2.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/hes_202305/Batman2.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "captain America",
+      "image": "file:///android_asset/superheroo3.png",
+      "link_mods": "https://archive.org/download/hes_202305/captain%20America.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Golem",
+      "image": "file:///android_asset/superheroo4.png",
+      "link_mods": "https://archive.org/download/hes_202305/IronGolem.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man – Tony Stark 2",
+      "image": "file:///android_asset/superheroo5.png",
+      "link_mods": "https://archive.org/download/hes_202305/Iron%20Man%20%E2%80%93%20Tony%20Stark2.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man – Tony Stark",
+      "image": "file:///android_asset/superheroo6.png",
+      "link_mods": "https://archive.org/download/hes_202305/Iron%20Man%20%E2%80%93%20Tony%20Stark.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man 2",
+      "image": "file:///android_asset/superheroo7.png",
+      "link_mods": "https://archive.org/download/hes_202305/da696fe72f94e2945eca4b9e3e048208170832.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man mini pack 2",
+      "image": "file:///android_asset/superheroo8.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/hes_202305/Iron%20Man%20mini%20pack2.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man mini pack",
+      "image": "file:///android_asset/superheroo9.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/hes_202305/Iron%20Man%20mini%20pack.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Iron Man",
+      "image": "file:///android_asset/superheroo10.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/hes_202305/Iron%20Man.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Venom",
+      "image": "file:///android_asset/superheroo15.png",
+      "link_mods": "https://archive.org/download/hes_202305/Venom.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Spider man and venom",
+      "image": "file:///android_asset/superheroo11.png",
+      "link_mods": "https://archive.org/download/hes_202305/Spider%20man%20and%20venom.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Super Heroes",
+      "image": "file:///android_asset/superheroo12.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/hes_202305/Super%20Heroes.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "Superman",
+      "image": "file:///android_asset/superheroo13.png",
+      "link_mods": "",
+      "link_saves": "https://archive.org/download/hes_202305/Superman.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    },
+    {
+      "name": "The Marvel Super Heroes",
+      "image": "file:///android_asset/superheroo14.png",
+      "link_mods": "null",
+      "link_saves": "https://archive.org/download/hes_202305/TheMarvelSuperHeroes.zip",
+      "type": "B",
+      "description": "This mod gives players the freedom to do whatever they want in this game. Melon Playground's gameplay is similar to People's Playground. The game is enjoyed by many players and the superheroos mod for melon playground is a lovely addition. You can use any weapon you want to have fun with your friends. To export the mod directly to the game, you must have the original game installed on your phone, otherwise you can download the weapon mod on your phone's memory."
+    }
+  ]
+}
